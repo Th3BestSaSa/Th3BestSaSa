@@ -53,9 +53,3 @@ Soy estudiante de programación y me interesa el desarrollo.
 - XQuery  
 - DTD  
 - XML Schema  
-
----
-
-## GitHub Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?)
