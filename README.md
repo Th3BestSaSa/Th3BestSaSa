@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hello World!</h1>
 
-<!--
-**Th3BestSaSa/Th3BestSaSa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Soy estudiante de programación y me interesa el desarrollo.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js,git,linux,vscode" />
+</p>
+
+---
+
+## GitHub Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO)
